@@ -1,0 +1,16 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 120px 24px;
+  gap: 10px;
+}
+.code {
+  font-family: var(--font-display);
+  font-size: var(--step-4);
+  color: var(--color-copper);
+  opacity: 0.4;
+}
+.page h1 { font-size: var(--step-3); }
+.page p { color: var(--color-espresso-soft); margin-bottom: 16px; }

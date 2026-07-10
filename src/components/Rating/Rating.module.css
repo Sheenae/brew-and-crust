@@ -1,0 +1,15 @@
+.wrap {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: var(--step--1);
+  color: var(--color-espresso-soft);
+}
+
+.stars { display: inline-flex; gap: 1px; }
+
+.filled { fill: var(--color-copper); stroke: var(--color-copper); }
+.empty { fill: none; stroke: var(--color-line); }
+
+.value { font-weight: 600; color: var(--color-espresso); }
+.count { color: var(--color-espresso-soft); }

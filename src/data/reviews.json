@@ -1,0 +1,8 @@
+[
+  { "id": "r1", "productId": "p01", "author": "Mia T.", "rating": 5, "date": "2026-06-02", "comment": "Bright and floral, exactly what I need in the morning." },
+  { "id": "r2", "productId": "p01", "author": "Jonah K.", "rating": 4, "date": "2026-05-14", "comment": "Great daily drip, wish it stayed hot a bit longer." },
+  { "id": "r3", "productId": "p03", "author": "Priya S.", "rating": 5, "date": "2026-06-20", "comment": "The vanilla syrup is not too sweet, oat milk foam is perfect." },
+  { "id": "r4", "productId": "p09", "author": "Andre L.", "rating": 5, "date": "2026-06-18", "comment": "Best croissant I've had outside of Paris, honestly." },
+  { "id": "r5", "productId": "p12", "author": "Sam R.", "rating": 5, "date": "2026-05-30", "comment": "Cream cheese icing is dangerous. Get there early, they sell out." },
+  { "id": "r6", "productId": "p05", "author": "Elena V.", "rating": 4, "date": "2026-06-11", "comment": "Smooth, chocolatey, my go-to on hot days." }
+]

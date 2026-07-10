@@ -1,0 +1,28 @@
+.stepper {
+  display: inline-flex;
+  align-items: center;
+  border: 1.5px solid var(--color-line);
+  border-radius: var(--radius-pill);
+  overflow: hidden;
+}
+
+.stepper button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  color: var(--color-espresso);
+}
+.stepper button:hover:not(:disabled) { background: var(--color-line); }
+.stepper button:disabled { opacity: 0.35; cursor: not-allowed; }
+
+.stepper span {
+  min-width: 28px;
+  text-align: center;
+  font-weight: 600;
+  font-family: var(--font-mono);
+}
+
+.sm button { width: 26px; height: 26px; }
+.lg button { width: 42px; height: 42px; }

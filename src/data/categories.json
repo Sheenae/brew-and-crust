@@ -1,0 +1,9 @@
+[
+  { "id": "coffee", "name": "Coffee", "icon": "☕", "description": "Roasted daily, brewed to order" },
+  { "id": "espresso", "name": "Espresso", "icon": "⚡", "description": "Short, strong, no compromise" },
+  { "id": "cold", "name": "Cold Brew", "icon": "🧊", "description": "Steeped 18 hours, always smooth" },
+  { "id": "tea", "name": "Tea & Matcha", "icon": "🍵", "description": "Loose-leaf and ceremonial grade" },
+  { "id": "pastries", "name": "Pastries", "icon": "🥐", "description": "Laminated fresh each morning" },
+  { "id": "bakery", "name": "Bakery", "icon": "🍰", "description": "Cakes, muffins, cookies, rolls" },
+  { "id": "savory", "name": "Savory", "icon": "🥪", "description": "Sandwiches for the in-between" }
+]
