@@ -1,0 +1,46 @@
+.page { display: flex; flex-direction: column; gap: 18px; max-width: 780px; }
+
+.formGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  padding: 22px;
+}
+
+.field { display: flex; flex-direction: column; gap: 6px; font-size: var(--step--1); font-weight: 600; }
+.field input, .field select {
+  padding: 10px 12px;
+  border-radius: var(--radius-sm);
+  border: 1.5px solid var(--color-line);
+  background: var(--color-parchment);
+  color: var(--color-espresso);
+  font-family: var(--font-body);
+  font-weight: 400;
+}
+.field input:focus, .field select:focus { outline: none; border-color: var(--color-copper); }
+
+.formFooter {
+  padding: 16px 22px;
+  border-top: 1px solid var(--color-line);
+  display: flex;
+  justify-content: flex-end;
+}
+
+.toggleList { padding: 8px 0; }
+.toggleRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 22px;
+  border-bottom: 1px solid var(--color-line);
+  cursor: pointer;
+}
+.toggleRow:last-child { border-bottom: none; }
+.toggleRow div { display: flex; flex-direction: column; gap: 2px; max-width: 420px; }
+.toggleRow strong { font-size: var(--step--1); }
+.toggleRow span { font-size: 12px; color: var(--color-espresso-soft); }
+.toggleRow input { accent-color: var(--color-copper); width: 18px; height: 18px; }
+
+@media (max-width: 640px) {
+  .formGrid { grid-template-columns: 1fr; }
+}

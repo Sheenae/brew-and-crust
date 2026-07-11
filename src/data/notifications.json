@@ -1,0 +1,8 @@
+[
+  { "id": "n1", "type": "stock", "message": "Caprese Sandwich is low on stock (4 left)", "time": "12 min ago", "read": false },
+  { "id": "n2", "type": "order", "message": "New order BC-100231 placed by Renz Alvarado", "time": "38 min ago", "read": false },
+  { "id": "n3", "type": "stock", "message": "Pistachio Croissant is low on stock (6 left)", "time": "1 hr ago", "read": false },
+  { "id": "n4", "type": "customer", "message": "Priya Santos left a 5-star review on Ceremonial Matcha", "time": "3 hr ago", "read": true },
+  { "id": "n5", "type": "order", "message": "Order BC-100224 was refunded", "time": "1 day ago", "read": true },
+  { "id": "n6", "type": "promo", "message": "Promo code BREW10 has been used 214 times this month", "time": "1 day ago", "read": true }
+]

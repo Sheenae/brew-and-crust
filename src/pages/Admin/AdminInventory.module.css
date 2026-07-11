@@ -1,0 +1,12 @@
+.page { display: flex; flex-direction: column; gap: 18px; }
+
+.alertBanner {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: rgba(166, 61, 47, 0.08);
+  color: var(--color-error);
+  padding: 14px 18px;
+  border-radius: var(--radius-md);
+  font-size: var(--step--1);
+}

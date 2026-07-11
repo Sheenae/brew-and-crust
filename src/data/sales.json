@@ -1,0 +1,35 @@
+{
+  "last7Days": [
+    { "day": "Mon", "revenue": 842, "orders": 61 },
+    { "day": "Tue", "revenue": 915, "orders": 68 },
+    { "day": "Wed", "revenue": 780, "orders": 55 },
+    { "day": "Thu", "revenue": 1024, "orders": 74 },
+    { "day": "Fri", "revenue": 1310, "orders": 92 },
+    { "day": "Sat", "revenue": 1489, "orders": 103 },
+    { "day": "Sun", "revenue": 1197, "orders": 85 }
+  ],
+  "last6Months": [
+    { "month": "Feb", "revenue": 21400, "orders": 1520 },
+    { "month": "Mar", "revenue": 23890, "orders": 1640 },
+    { "month": "Apr", "revenue": 22150, "orders": 1580 },
+    { "month": "May", "revenue": 26780, "orders": 1810 },
+    { "month": "Jun", "revenue": 29840, "orders": 1990 },
+    { "month": "Jul", "revenue": 18230, "orders": 1240 }
+  ],
+  "categoryBreakdown": [
+    { "category": "Espresso", "value": 32 },
+    { "category": "Bakery", "value": 24 },
+    { "category": "Coffee", "value": 18 },
+    { "category": "Pastries", "value": 14 },
+    { "category": "Cold Brew", "value": 7 },
+    { "category": "Tea & Matcha", "value": 3 },
+    { "category": "Savory", "value": 2 }
+  ],
+  "topProducts": [
+    { "name": "Signature Espresso", "unitsSold": 940, "revenue": 3055 },
+    { "name": "Butter Croissant", "unitsSold": 812, "revenue": 3207 },
+    { "name": "House Drip Coffee", "unitsSold": 780, "revenue": 2925 },
+    { "name": "Cinnamon Roll", "unitsSold": 605, "revenue": 2722 },
+    { "name": "Vanilla Oat Latte", "unitsSold": 588, "revenue": 2910 }
+  ]
+}

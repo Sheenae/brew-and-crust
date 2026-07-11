@@ -1,0 +1,7 @@
+[
+  { "id": "promo1", "code": "BREW10", "type": "Percentage", "value": "10%", "usage": 214, "limit": 500, "status": "active", "expires": "2026-08-31" },
+  { "id": "promo2", "code": "CRUST5", "type": "Fixed amount", "value": "$5.00", "usage": 96, "limit": 200, "status": "active", "expires": "2026-07-31" },
+  { "id": "promo3", "code": "WELCOME15", "type": "Percentage", "value": "15%", "usage": 340, "limit": 1000, "status": "active", "expires": "2026-12-31" },
+  { "id": "promo4", "code": "SUMMERFEST", "type": "Fixed amount", "value": "$3.00", "usage": 500, "limit": 500, "status": "expired", "expires": "2026-06-15" },
+  { "id": "promo5", "code": "VIPONLY", "type": "Percentage", "value": "20%", "usage": 40, "limit": 150, "status": "scheduled", "expires": "2026-09-01" }
+]

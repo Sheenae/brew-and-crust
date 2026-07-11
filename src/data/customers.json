@@ -1,0 +1,11 @@
+[
+  { "id": "c1", "name": "Renz Alvarado", "email": "renz.a@example.com", "phone": "0917 123 4567", "joined": "2024-03-14", "orders": 38, "totalSpent": 512.4, "lastOrder": "2026-07-10", "segment": "VIP" },
+  { "id": "c2", "name": "Kat Domingo", "email": "kat.d@example.com", "phone": "0918 234 5678", "joined": "2024-06-02", "orders": 22, "totalSpent": 289.9, "lastOrder": "2026-07-10", "segment": "Regular" },
+  { "id": "c3", "name": "Marco Ibarra", "email": "marco.i@example.com", "phone": "0919 345 6789", "joined": "2023-11-20", "orders": 51, "totalSpent": 704.15, "lastOrder": "2026-07-10", "segment": "VIP" },
+  { "id": "c4", "name": "Elena Vega", "email": "elena.v@example.com", "phone": "0920 456 7890", "joined": "2025-01-08", "orders": 9, "totalSpent": 78.6, "lastOrder": "2026-07-09", "segment": "New" },
+  { "id": "c5", "name": "Sam Reyes", "email": "sam.r@example.com", "phone": "0921 567 8901", "joined": "2024-09-30", "orders": 17, "totalSpent": 231.0, "lastOrder": "2026-07-09", "segment": "Regular" },
+  { "id": "c6", "name": "Priya Santos", "email": "priya.s@example.com", "phone": "0922 678 9012", "joined": "2025-05-17", "orders": 6, "totalSpent": 54.2, "lastOrder": "2026-07-09", "segment": "New" },
+  { "id": "c7", "name": "Jonah Kim", "email": "jonah.k@example.com", "phone": "0923 789 0123", "joined": "2024-01-25", "orders": 44, "totalSpent": 612.8, "lastOrder": "2026-07-09", "segment": "VIP" },
+  { "id": "c8", "name": "Andre Lim", "email": "andre.l@example.com", "phone": "0924 890 1234", "joined": "2024-08-11", "orders": 13, "totalSpent": 145.3, "lastOrder": "2026-07-08", "segment": "Regular" },
+  { "id": "c9", "name": "Mia Torres", "email": "mia.t@example.com", "phone": "0925 901 2345", "joined": "2025-02-19", "orders": 11, "totalSpent": 98.75, "lastOrder": "2026-07-08", "segment": "Regular" }
+]

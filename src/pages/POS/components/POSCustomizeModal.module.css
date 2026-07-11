@@ -1,0 +1,29 @@
+.wrap { display: flex; flex-direction: column; gap: 18px; }
+.group { display: flex; flex-direction: column; gap: 8px; }
+.label { font-size: var(--step--1); font-weight: 600; }
+
+.pillRow { display: flex; gap: 8px; flex-wrap: wrap; }
+.pill, .pillActive {
+  padding: 8px 14px;
+  border-radius: var(--radius-pill);
+  border: 1.5px solid var(--color-line);
+  font-size: var(--step--1);
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+.pillActive { background: var(--color-copper); border-color: var(--color-copper); color: var(--color-cream); }
+
+.notes {
+  width: 100%;
+  border: 1.5px solid var(--color-line);
+  border-radius: var(--radius-sm);
+  padding: 10px 12px;
+  font-family: var(--font-body);
+  background: var(--color-parchment);
+  color: var(--color-espresso);
+  resize: vertical;
+}
+.notes:focus { outline: none; border-color: var(--color-copper); }
+
+.qtyRow { display: flex; align-items: center; justify-content: space-between; }

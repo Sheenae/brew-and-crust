@@ -1,0 +1,20 @@
+[
+  { "productId": "p01", "sku": "COF-001", "stock": 42, "reorderLevel": 20, "warehouse": "Main Counter" },
+  { "productId": "p02", "sku": "ESP-001", "stock": 58, "reorderLevel": 20, "warehouse": "Main Counter" },
+  { "productId": "p03", "sku": "ESP-002", "stock": 35, "reorderLevel": 15, "warehouse": "Main Counter" },
+  { "productId": "p04", "sku": "ESP-003", "stock": 40, "reorderLevel": 15, "warehouse": "Main Counter" },
+  { "productId": "p05", "sku": "CLD-001", "stock": 30, "reorderLevel": 15, "warehouse": "Main Counter" },
+  { "productId": "p06", "sku": "CLD-002", "stock": 9, "reorderLevel": 12, "warehouse": "Main Counter" },
+  { "productId": "p07", "sku": "TEA-001", "stock": 26, "reorderLevel": 10, "warehouse": "Main Counter" },
+  { "productId": "p08", "sku": "TEA-002", "stock": 33, "reorderLevel": 10, "warehouse": "Main Counter" },
+  { "productId": "p09", "sku": "PAS-001", "stock": 18, "reorderLevel": 20, "warehouse": "Bakery Case" },
+  { "productId": "p10", "sku": "PAS-002", "stock": 6, "reorderLevel": 12, "warehouse": "Bakery Case" },
+  { "productId": "p11", "sku": "PAS-003", "stock": 24, "reorderLevel": 15, "warehouse": "Bakery Case" },
+  { "productId": "p12", "sku": "BAK-001", "stock": 7, "reorderLevel": 15, "warehouse": "Bakery Case" },
+  { "productId": "p13", "sku": "BAK-002", "stock": 28, "reorderLevel": 15, "warehouse": "Bakery Case" },
+  { "productId": "p14", "sku": "BAK-003", "stock": 14, "reorderLevel": 10, "warehouse": "Bakery Case" },
+  { "productId": "p15", "sku": "BAK-004", "stock": 20, "reorderLevel": 12, "warehouse": "Bakery Case" },
+  { "productId": "p16", "sku": "SAV-001", "stock": 15, "reorderLevel": 10, "warehouse": "Kitchen" },
+  { "productId": "p17", "sku": "SAV-002", "stock": 4, "reorderLevel": 10, "warehouse": "Kitchen" },
+  { "productId": "p18", "sku": "ESP-004", "stock": 31, "reorderLevel": 15, "warehouse": "Main Counter" }
+]

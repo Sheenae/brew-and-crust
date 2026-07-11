@@ -1,0 +1,20 @@
+.wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  padding: 18px 0 4px;
+  font-size: var(--step--1);
+  color: var(--color-espresso-soft);
+}
+.wrap button {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  border: 1.5px solid var(--color-line);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrap button:hover:not(:disabled) { border-color: var(--color-copper); color: var(--color-copper); }
+.wrap button:disabled { opacity: 0.35; }

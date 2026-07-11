@@ -1,0 +1,14 @@
+[
+  { "id": "BC-100231", "customer": "Renz Alvarado", "email": "renz.a@example.com", "date": "2026-07-10T08:12:00", "items": 3, "total": 18.45, "status": "fulfilled", "payment": "Card", "fulfillment": "Pickup" },
+  { "id": "BC-100230", "customer": "Kat Domingo", "email": "kat.d@example.com", "date": "2026-07-10T07:58:00", "items": 2, "total": 12.9, "status": "processing", "payment": "GCash", "fulfillment": "Delivery" },
+  { "id": "BC-100229", "customer": "Marco Ibarra", "email": "marco.i@example.com", "date": "2026-07-10T07:40:00", "items": 5, "total": 34.2, "status": "fulfilled", "payment": "Cash", "fulfillment": "Pickup" },
+  { "id": "BC-100228", "customer": "Elena Vega", "email": "elena.v@example.com", "date": "2026-07-09T18:22:00", "items": 1, "total": 4.5, "status": "cancelled", "payment": "Maya", "fulfillment": "Pickup" },
+  { "id": "BC-100227", "customer": "Sam Reyes", "email": "sam.r@example.com", "date": "2026-07-09T16:05:00", "items": 4, "total": 27.8, "status": "fulfilled", "payment": "Card", "fulfillment": "Delivery" },
+  { "id": "BC-100226", "customer": "Priya Santos", "email": "priya.s@example.com", "date": "2026-07-09T14:47:00", "items": 2, "total": 9.95, "status": "processing", "payment": "GCash", "fulfillment": "Pickup" },
+  { "id": "BC-100225", "customer": "Jonah Kim", "email": "jonah.k@example.com", "date": "2026-07-09T11:30:00", "items": 6, "total": 41.6, "status": "fulfilled", "payment": "Card", "fulfillment": "Delivery" },
+  { "id": "BC-100224", "customer": "Andre Lim", "email": "andre.l@example.com", "date": "2026-07-08T19:15:00", "items": 2, "total": 11.7, "status": "refunded", "payment": "Card", "fulfillment": "Pickup" },
+  { "id": "BC-100223", "customer": "Mia Torres", "email": "mia.t@example.com", "date": "2026-07-08T15:02:00", "items": 3, "total": 16.35, "status": "fulfilled", "payment": "Cash", "fulfillment": "Pickup" },
+  { "id": "BC-100222", "customer": "Renz Alvarado", "email": "renz.a@example.com", "date": "2026-07-07T09:44:00", "items": 1, "total": 3.75, "status": "fulfilled", "payment": "Card", "fulfillment": "Pickup" },
+  { "id": "BC-100221", "customer": "Kat Domingo", "email": "kat.d@example.com", "date": "2026-07-06T13:20:00", "items": 4, "total": 22.1, "status": "fulfilled", "payment": "Maya", "fulfillment": "Delivery" },
+  { "id": "BC-100220", "customer": "Elena Vega", "email": "elena.v@example.com", "date": "2026-07-05T10:11:00", "items": 2, "total": 10.4, "status": "processing", "payment": "GCash", "fulfillment": "Pickup" }
+]

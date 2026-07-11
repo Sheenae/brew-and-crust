@@ -1,0 +1,37 @@
+.wrap { display: flex; flex-direction: column; gap: 14px; }
+.total { font-size: var(--step--1); color: var(--color-espresso-soft); }
+.total strong { color: var(--color-espresso); }
+
+.row { display: flex; gap: 8px; align-items: center; }
+.row select {
+  padding: 10px 12px;
+  border-radius: var(--radius-sm);
+  border: 1.5px solid var(--color-line);
+  background: var(--color-parchment);
+  color: var(--color-espresso);
+  font-size: var(--step--1);
+}
+.row input {
+  flex: 1;
+  padding: 10px 12px;
+  border-radius: var(--radius-sm);
+  border: 1.5px solid var(--color-line);
+  background: var(--color-parchment);
+  color: var(--color-espresso);
+  font-family: var(--font-mono);
+}
+.row input:focus, .row select:focus { outline: none; border-color: var(--color-copper); }
+.row button {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  color: var(--color-espresso-soft);
+  font-size: 18px;
+  flex-shrink: 0;
+}
+.row button:hover { background: var(--color-line); color: var(--color-error); }
+
+.addRow { align-self: flex-start; font-size: var(--step--1); font-weight: 600; color: var(--color-copper); }
+
+.balanced { color: var(--color-success); font-size: var(--step--1); font-weight: 600; }
+.unbalanced { color: var(--color-error); font-size: var(--step--1); font-weight: 600; }

@@ -76,6 +76,7 @@ export default function Navbar() {
             </NavLink>
           ))}
           <NavLink to="/cart" onClick={() => setOpen(false)}>Cart</NavLink>
+          <NavLink to="/admin" onClick={() => setOpen(false)}>Admin</NavLink>
         </nav>
       )}
     </header>
